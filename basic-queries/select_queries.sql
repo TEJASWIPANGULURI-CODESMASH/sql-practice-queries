@@ -23,4 +23,4 @@ SELECT name, department FROM Students;
 SELECT * FROM Students
 WHERE age > 20;
 
---Added basic SELECT query examples
+
